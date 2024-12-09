@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { ToggleContext } from "../../contexts/toggleContext";
+import { ToggleContext } from "../../contexts/ToggleContext";
 import { useContext, useState } from "react";
 import { FaPlus } from "react-icons/fa6";
 import {

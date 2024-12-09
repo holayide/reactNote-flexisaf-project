@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { ToggleContext } from "./contexts/toggleContext";
+import { ToggleContext } from "./contexts/ToggleContext";
 import { useContext } from "react";
 import Login from "./pages/Login";
 import Note from "./pages/Note";

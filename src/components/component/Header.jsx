@@ -1,5 +1,5 @@
 import { LoginContext } from "../../contexts/LoginContext";
-import { ToggleContext } from "../../contexts/toggleContext";
+import { ToggleContext } from "../../contexts/ToggleContext";
 import { useContext } from "react";
 import { IoMdSunny } from "react-icons/io";
 import { IoMoon } from "react-icons/io5";

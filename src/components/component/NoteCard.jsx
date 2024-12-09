@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import { RiDeleteBin5Line } from "react-icons/ri";
-import { ToggleContext } from "../../contexts/toggleContext";
+import { ToggleContext } from "../../contexts/ToggleContext";
 import { useContext } from "react";
 
 function NoteCard({ id, title, detail, date, handleDeleteNote }) {
