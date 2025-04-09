@@ -11,7 +11,7 @@ function Header() {
   return (
     <div className="h-[60px] px-5 bg-primary flex items-center border-b-0 shadow-sm">
       <div className="w-full flex items-center justify-between">
-        <h3>ReactNode</h3>
+        <h3>ReactNote</h3>
         <div className="flex items-center gap-3">
           <div className="text-lg">
             <span className="text-xs pr-2"> welcome</span>
